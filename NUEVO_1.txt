@@ -1,0 +1,3 @@
+Hoy 23/07/22 comenzaremos a integrar MySql y Django a Git
+...
+Suerte!!!
