@@ -3,4 +3,4 @@ from django.shortcuts import render, HttpResponse
 
 # Create your views here.
 def mi_vista(request):
-    return HttpResponse('')
+    return HttpResponse('<h1>Grupo 5 <h1>')
