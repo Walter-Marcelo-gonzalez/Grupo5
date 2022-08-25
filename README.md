@@ -18,8 +18,8 @@
   <img src="https://img.shields.io/badge/VERSION-1.0-green"></span></i><img src="https://img.shields.io/badge/ESTADO-EN DESARROLLO-green" /></p></center>
 <div
 
-     <p align="left"></p>
-<FONT COLOR="green"
+<p align="left"></p>
+  <FONT COLOR="green"
 - <em><u><i><b>ÍNDICE</em></u></b></i>
 </FONT>
 </li>
