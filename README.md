@@ -15,7 +15,7 @@
    </li> 
  </p>
  <center>
-  <img src="https://img.shields.io/badge/VERSION-1.0-green"></span></i><img src="https://img.shields.io/badge/ESTADO-EN DESARROLLO-green" /></p></center>
+  <img src="https://img.shields.io/badge/VERSION-2022-green"></span></i><img src="https://img.shields.io/badge/ESTADO-EN DESARROLLO-green" /></p></center>
 <div
 
 <p align="left"></p>
