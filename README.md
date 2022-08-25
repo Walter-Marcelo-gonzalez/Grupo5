@@ -4,30 +4,36 @@
  
 </p><center>
 <head align= "center">
-<center><em>Proyecto: BLOG-ONG "LALCEC"</em></center>
+<em><center>Proyecto: BLOG-ONG "LALCEC"</em></center>
  <p 
  </p>
   </li> 
  </p>
- <img src="![LALCEC](https://user-images.githubusercontent.com/109771206/186561123-b884c32b-1410-46be-84c2-9b386ba24c25.png)" /></p>
+   </center><img src="https://user-images.githubusercontent.com/109771206/186653123-0d231084-daa4-4d9c-9396-79c41946cc30.png" /></p></center>
  </p> 
- <img src="data:image/jpeg;base64,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" />
+ 
    </li> 
  </p>
-        <img src="https://img.shields.io/badge/VERSION-1.0-green"></span></i>, <img src="https://img.shields.io/badge/ESTADO-EN DESARROLLO-green" /></p>
+ <center>
+  <img src="https://img.shields.io/badge/VERSION-1.0-green"></span></i><img src="https://img.shields.io/badge/ESTADO-EN DESARROLLO-green" /></p></center>
 <div
 
-</p>
-<head align= "border">
-    <em>INDICE</em>
-   <p 
-
+     <p align="left"></p>
+<FONT COLOR="green"
+- <em><u><i><b>ÍNDICE</em></u></b></i>
+</FONT>
+</li>
+<p align="left"></p>
+<p
+   </p>
+ </li>
+ <div
    <ul>
     <li><a>Descripción del Proyecto</a></li>
     <li><a>Funcionalidades</a></li>
     <li><a>Herramientas Utilizadas</a></li>
     <li><a>Acceso al Blog</a></li>
-    <li><a>Abrir el Blog</a></li>
+    <li><a>Contactos ONG</a></li>
     <li><a>Colaboradores</a></li>
   </ul>
   </li>
@@ -35,7 +41,7 @@
 
 <p align="left"></p>
 <FONT COLOR="green"
-- <em><u>DESCRIPCIÓN DEL PROYECTO</em></u>
+- <em><u><b>DESCRIPCIÓN DEL PROYECTO</em></u></b>
 </FONT>
 </li>
 <p align="left"></p>
@@ -50,7 +56,7 @@
 </p>
 <p align="left"></p>
 <FONT COLOR="green"
-- <em><u>FUNCIONALIDADES</em></u>
+- <em><u><b>FUNCIONALIDADES</em></u></b>
 </FONT>
 </li>
 </p>
@@ -64,7 +70,7 @@
 </ul>
 <p align="left"></p>
 <FONT COLOR="green"
-- <em><u>HERRAMIENTAS UTILIZADAS</em></u>
+- <em><u><b>HERRAMIENTAS UTILIZADAS</em></u></b>
 </FONT>
 </li> 
  </p> 
@@ -74,7 +80,7 @@
 </ul>
 <p align="left"></p>
 <FONT COLOR="green"
-- <em><u>ACCESOS AL BLOG</em></u>
+- <em><u><b>ACCESOS AL BLOG</em></u></b>
 </FONT>
 </li>
 </p>
@@ -86,3 +92,47 @@ Lo primero a tener en cuenta es crear una cuenta github. Para ello tendrá que i
     <li> "</li>
     <li>punto tres</li>
    </ol>
+   
+   <div
+        </ul>
+<p align="left"></p>
+<FONT COLOR="green"
+- <em><u><b>CONTACTOS ONG</em></u></b<
+</FONT>
+</li>
+</p>
+
+ <ol>
+    <li></a>https://www.instagram.com/lalcecspchaco/</li></a>
+    <li></a>https://www.facebook.com/LALCECHACO/</li></a>
+    <li></a>correo: lalcecspchaco@gmail.com</li></a>
+    </ol>
+</ul>
+<div
+     
+<p align="left"></p>
+<FONT COLOR="green"
+- <em><u><b>COLABORADORES</em></u></b>
+</FONT>
+</li>
+</p>
+<ul>
+    <li><a>Ojeda Agustin,<br>
+     http://www.linkedin.com/in/agustin-ojeda-b670a229/ ,<br>
+     mail: oagusj@gmail.com</a></li><br>
+ <br>
+    <li><a>Piccoli Ignacio,<br>
+     correo: igna_xd@hotmail.com.ar</a></li>
+ <br>
+    <li><a>Gonzalez Walter Marcelo</a></li>
+ <br>
+    <li><a>Ferreira Olga Vanesa</a></li>
+ <br>
+    <li><a>Huell Maria Carolina,<br>
+     +5493624936830-<br>
+     https://www.linkedin.com/in/carolina-huell-b9a36b22a/<br>
+     correo: caro08serfaty@gmail.com</a></li>
+    <br>
+  </ul>
+  </li>
+  <div
