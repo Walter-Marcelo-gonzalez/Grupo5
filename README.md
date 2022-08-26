@@ -50,7 +50,7 @@
  </li>
  <div
 <ol>
-    <li></a>Esta página web fue desarrollada a modo de Blog informativo. A través de este el usuario podrá subir nuevos posteos y llevar a cabo el control de suscriptores, comentarios y actualizaciones de información.</a></li>
+    <li></a>Esta página web nació como una necesidad de la ONG LALCEC de Saenz Peña Chaco, solicitado a los mentores del curso de Programación Web y Base de Datos del cual formamos parte en el Informatorio Chaco como parte de nuestras práctica integradora de finalización del cursado. Fue desarrollada a modo de Blog informativo dirigida a los cibernautas que visiten la página en busqueda de información relacionada a dicha institución.<br> A través de este el usuario podrá subir nuevos posteos y llevar a cabo el control de suscriptores, comentarios y actualizaciones continua de la información que se desea hacer conocer.</a></li>
 </ol>
 <div
 </p>
